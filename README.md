@@ -4,6 +4,8 @@ This Computer Vision project implements histogram equalization, low-pass and hig
 Histogram equalization improves the contrast in an image, in order to stretch out the intensity range. Images can be filtered with various low-pass filters(LPF), high-pass filters(HPF) etc. Image Smoothing is done by convolving the image with LPF, which helps in removing noises, blurring the images etc. HPF filters helps in finding edges in the images. Laplacian Blending is used to blend/stitch images together.
 
 
+Uploaded Files Description:
+
 
 main.py: Python code for Histogram Equalization, LPF, HPF, Laplacian Blending.
 
@@ -12,7 +14,9 @@ main.py: Python code for Histogram Equalization, LPF, HPF, Laplacian Blending.
 input1.jpg: Given input image
 
 
+
 input2.png: Given grayscale input image
+
 
 
 input3A.jpg: Given input image 1 for Laplacian Blending
